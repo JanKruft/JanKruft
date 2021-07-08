@@ -46,6 +46,6 @@ Here are some ideas to get you started:
 
   </p>
   <details open>
- <summary> 😇 <b>DropDown/b>: </summary>
+ <summary> 😇 <b>DropDown</b>: </summary>
   <p>Some Text</p>
   </details>
