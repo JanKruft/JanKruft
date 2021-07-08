@@ -37,7 +37,7 @@ Here are some ideas to get you started:
   <img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img alt="Markdown" src="https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=Markdown&logoColor=white" />
   <img alt="Vercel" src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
-  <img alt="Vuejs" src="https://img.shields.io/badge/-Vue-000000?style=flat-square&logo=Vue&logoColor=green" />
+  <img alt="Vuejs" src="https://img.shields.io/badge/-Vue-000000?style=flat-square&logo=vue.js&logoColor=green" />
  </p>
    <h2>Backend</h2>
   <p>
