@@ -41,6 +41,7 @@ Here are some ideas to get you started:
  </p>
    <h2>Backend</h2>
   <p>
-  
   <img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+  <img alt="NODEJS" src="https://img.shields.io/badge/-NodeJS-339933?style=flat-square&logo=node.js&logoColor=white" />
+
   </p>
