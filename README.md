@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
 ## 👨🏻‍💻 &nbsp;Things I code with
  <p> 
   <img alt="VSCode" src="https://img.shields.io/badge/-Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white" />
@@ -49,9 +50,15 @@ Here are some ideas to get you started:
   <img alt="Wordpress" src="https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=WordPress&logoColor=white" />
  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E434AA?style=flat-square&logo=GraphQL&logoColor=white" />
  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white" />
- 
- 
-  </p>
+ </p>
+## ❤️ ThingsILove
+<ul>
+ <li>☕ Coffee</li>
+ <li>🌘 DarkMode</li>
+ <li>🦋 Beautifull Code</li>
+ <li><b>>_</b>CLI Tools</li>
+</ul>
+
   <details open>
  <summary><b>DropDown</b>: </summary>
   <p>Some Text</p>
