@@ -37,7 +37,7 @@ Here are some ideas to get you started:
   <img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img alt="Markdown" src="https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=Markdown&logoColor=white" />
   <img alt="Vercel" src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
-  <img alt="Vuejs" src="https://img.shields.io/badge/-Vue-000000?style=flat-square&logo=vue.js&logoColor=green" />
+  <img alt="Vuejs" src="https://img.shields.io/badge/-Vue-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
  </p>
  
 ## Backend
@@ -46,6 +46,10 @@ Here are some ideas to get you started:
   <img alt="NODEJS" src="https://img.shields.io/badge/-NodeJS-339933?style=flat-square&logo=node.js&logoColor=white" />
   <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=Laravel&logoColor=white" />
   <img alt="Wordpress" src="https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=WordPress&logoColor=white" />
+ <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E434AA?style=flat-square&logo=GraphQL&logoColor=white" />
+ <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white" />
+ 
+ 
   </p>
   <details open>
  <summary><b>DropDown</b>: </summary>
