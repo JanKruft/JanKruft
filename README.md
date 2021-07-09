@@ -19,7 +19,7 @@ Here are some ideas to get you started:
  <p> 
   <img alt="VSCode" src="https://img.shields.io/badge/-Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
- </p
+ </p>
  
 ## Frontend
  <p>
