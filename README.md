@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p>Hey there, welcome!</br>
 
 
 <h2>👨🏻‍💻 &nbsp;Things I code with</h2>
@@ -22,7 +21,8 @@ Here are some ideas to get you started:
   <img alt="VSCode" src="https://img.shields.io/badge/-Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
  </p
- <h2>Frontend</h2>
+ 
+<h2>Frontend</h2>
  <p>
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=visual%20studio%20code&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" />
@@ -39,13 +39,14 @@ Here are some ideas to get you started:
   <img alt="Vercel" src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
   <img alt="Vuejs" src="https://img.shields.io/badge/-Vue-000000?style=flat-square&logo=vue.js&logoColor=green" />
  </p>
-   <h2>Backend</h2>
+<h2>Backend</h2>
   <p>
   <img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
   <img alt="NODEJS" src="https://img.shields.io/badge/-NodeJS-339933?style=flat-square&logo=node.js&logoColor=white" />
+  <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=Laravel&logoColor=white" />
 
   </p>
   <details open>
- <summary> 😇 <b>DropDown</b>: </summary>
+ <summary><b>DropDown</b>: </summary>
   <p>Some Text</p>
   </details>
