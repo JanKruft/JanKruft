@@ -1,5 +1,7 @@
 # Hi there <img src="wink.gif" height="50px" width="50px" alt="wink">
 
+Im Jan Kruft a FullStack Developer from Germany.
+
 <!--
 **JanKruft/JanKruft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
